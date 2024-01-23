@@ -7,12 +7,12 @@ Time for action!  We’re going to address some of these tasks ourselves, this a
   
 Most of the Data School teaching material exists as text files in GitHub repositories 
 ([links](lesson-repo-list.md)) and thus 
-can be easily edited by anyone, by checking out a forked branch with Git.  
+can be easily edited by anyone, by making a [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) to have your own copy. Forking on GitHub is very similar to what you saw previously with [Bitbucket](https://csiro-data-school.github.io/git-intro-23/09-collaborating/index.html).
 
 Instructors can help with creating a fork of a lesson on GitHub, creating a local clone and 
 understanding the files involved.  
 
-Make sure you’ve checked out the correct base branch (for most of the 
+Make sure you’ve checked out the correct branch (for most of the 
 [Carpentries](https://software-carpentry.org/lessons/) based lessons, the branch is ‘gh-pages’), 
 then create a new branch for your work.  Then…  
   
