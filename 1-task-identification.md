@@ -1,4 +1,4 @@
-# Task identification  
+# 1. Task identification  
 (1.5 hours)  
   
 Through the initial weeks of Data School, perhaps you noted some moments where you felt the 
@@ -13,5 +13,5 @@ section to be clearer,
 - But should be discrete and clearly described pieces of work. 
 - Try to come up with at least 2 post-it tasks each. 
   
-
-[<< Back](index.md)  [Next >>](2-planning.md)  
+  
+[<< Back](index.md)  |  [Next >>](2-planning.md)  

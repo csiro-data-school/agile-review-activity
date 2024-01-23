@@ -1,4 +1,4 @@
-# Planning  
+# 2. Planning  
 (45 minutes)  
   
 As a group, discuss the potential tasks you’ve come up with.  
@@ -9,5 +9,4 @@ As a group, discuss the potential tasks you’ve come up with.
   - taking into account a limited time to address any of them
   
   
-[<< Back](1-task-identification.md)  [Next >>](3-work-sprint.md)  
-  
+[<< Back](1-task-identification.md)  |  [Next >>](3-work-sprint.md)  
