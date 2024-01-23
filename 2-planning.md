@@ -8,5 +8,10 @@ As a group, discuss the potential tasks you’ve come up with.
 - Work out a prioritisation order for the tasks
   - taking into account a limited time to address any of them
   
-  
+### Discussion
+
+- What makes a 'good' task?
+- Would you change the way you describe a task if you were working alone or with a team?
+- What considerations are involved when you prioritise the work?
+
 [<< Back](1-task-identification.md)  |  [Next >>](3-work-sprint.md)  
