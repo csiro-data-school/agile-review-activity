@@ -12,16 +12,20 @@ can be easily edited by anyone, by making a [fork](https://docs.github.com/en/pu
 Instructors can help with creating a fork of a lesson on GitHub, creating a local clone and 
 understanding the files involved.  
 
-Make sure you’ve checked out the correct branch (for most of the 
-[Carpentries](https://software-carpentry.org/lessons/) based lessons, the branch is ‘gh-pages’), 
-then create a new branch for your work.  Then…  
+Make sure you’ve checked out the correct branch\*, create a new branch for your own work and then…  
   
 1. Make changes to file(s) to complete your task.  
 2. Push the change back to your forked remote repository (origin).  
-3. On GitHub, create a Pull Request that would merge your changes back to base branch  
+3. On GitHub, create a Pull Request that would merge your changes back to the base branch  
   -Use this Pull Request to describe the change you made and why  
   -Save the Pull Request, but don’t Merge it (we’ll review together later)  
 4. If more time, start another task?  
+  
+  
+\* Lessons using the [older Carpentries template](https://carpentries.github.io/lesson-example/)
+use a branch named '**gh-pages**', while lessons using the 
+[newer Carpentries template](https://carpentries.github.io/workbench-template-md/) (and most
+other repositories) use a '**main**' branch.  
   
   
 [<< Back](2-planning.md)  |  [Next >>](4-review.md)  
